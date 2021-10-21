@@ -26,6 +26,7 @@ mvn package
 To run the application, type:
 
 java -jar target/dropwizard-helloworld-1.0-SNAPSHOT.jar server hello-world.yml
+
 To query some sayings, try accessing:
 
 http://localhost:8080/hello-world
