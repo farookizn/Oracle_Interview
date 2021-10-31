@@ -1,0 +1,11 @@
+## User to define the variables before executing terraform apply.
+region = "<Region to enter>"
+tenancy_ocid = "<Tenancy OCI id>"
+user_ocid = "<OCI User id>"
+compartment_ocid = "<OCI Compartment id>"
+fingerprint = "<Finger print>"
+private_key_path = "<Path of private key>"
+ssh_public_key_file = "<public key file>"
+ssh_private_key_file = "<private key file>"
+bastion_public_key_file = "<Bastion server instance public key>"
+bastion_private_key_file = "<Bastion server private key>"
